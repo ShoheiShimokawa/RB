@@ -13,5 +13,5 @@ public class Reading {
     /** 本ID */
     @NotNull
     private Long bookId;
-
+    // test
 }
